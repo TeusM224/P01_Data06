@@ -9,7 +9,7 @@
 
 ## **Introducción**
 
-Para comenzar, quisiera comentarles que durante el desarrollo del primer proyecto tuve que desempeñarme como ***`Data Engineer`*** para una empresa que me solitó ciertos requerimientos para el desarrollo de sus posteriores actividades. A grandes rasgos, debia realizar actividades de extracción, transformación, y carga de datos con el objetivo de disponibilizarlos para desarrollar una Api y ponerla en servicio posterior a su deployment como aplicación web en ***`DETA`***
+Para comenzar, quisiera comentarles que durante el desarrollo del primer proyecto, tuve que desempeñarme como ***`Data Engineer`*** para una empresa que solicitaba ciertos requerimientos para el desarrollo de sus actividades. A grandes rasgos, debia realizar actividades de extracción, transformación, y carga de datos con el objetivo de disponibilizarlos para desarrollar una Api y ponerla en servicio posterior a su deployment como aplicación web en ***`DETA`***
 
 <p align="center">
 <img src = 'https://user-images.githubusercontent.com/111015749/206627044-8b1d9613-0800-4597-869e-1baad4b32172.png' height=250><p>
